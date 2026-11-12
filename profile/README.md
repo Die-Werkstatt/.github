@@ -11,4 +11,4 @@ Tools for Blender, Houdini, Fusion and Resolve.
 | [Capsa](https://github.com/Die-Werkstatt/Capsa) | Asset library for a Houdini/Solaris workflow | Lists, remembers and searches files by name; no interface yet |
 | [Laterna](https://github.com/Die-Werkstatt/Laterna) | Render monitor and USD inspector for Houdini/Solaris (Karma) | Phase 0, verification; no application code yet |
 
-Kompass website: [kompass-site.pages.dev](https://kompass-site.pages.dev)
+Kompass: [kompass-site.pages.dev](https://kompass-site.pages.dev)
