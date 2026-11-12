@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Die-Werkstatt/.github/main/profile/die-werkstatt-lockup-dark.svg" width="420" alt="Die Werkstatt">
 </picture>
 
-Die Werkstatt makes tools for Blender and Houdini.
+Tools for Blender, Houdini, Fusion and Resolve.
 
 | Project | What it is | Status |
 |---|---|---|
