@@ -12,3 +12,4 @@ Tools for Blender, Houdini, Fusion and Resolve.
 | [Laterna](https://github.com/Die-Werkstatt/Laterna) | Render monitor and USD inspector for Houdini/Solaris (Karma) | Phase 0, verification; no application code yet |
 
 Kompass: [kompass-site.pages.dev](https://kompass-site.pages.dev)
+Capsa: [capsa-site.pages.dev](https://capsa-site.pages.dev)
